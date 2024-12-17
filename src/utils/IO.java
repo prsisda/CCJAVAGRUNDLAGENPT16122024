@@ -1,6 +1,8 @@
 package utils;
 
-/* Prof. Dr.-Ing. Philippe Tamla */
+/* Prof. Dr.-Ing. Philippe Tamla 
+ * Util class for input and output
+ * */
 import java.io.*;
 import java.util.Random;
 
