@@ -19,6 +19,15 @@ public class BanksystemProgramm {
 		System.out.println("Kundeninformationen:");
 		System.out.println(kunde1);
 		System.out.println(kunde2);
+		
+		
+		// Teil 2
+		Aktie aktie1 = new Aktie("AAPL123", "Apple Inc.", 150.0);
+		Aktie aktie2 = new Aktie("MSFT456", "Microsoft Corp.", 280.0);
+		
+		System.out.println("Aktieninformationen:");
+		System.out.println(aktie1);
+		System.out.println(aktie2);
 	}
 
 }
